@@ -426,3 +426,26 @@ footer a:focus {
 	margin-top: 50px;
 	font-size: 22px;
 }
+/* Add this CSS to your stylesheet or in your component style tag */
+.floating-menu {
+	position: fixed;
+	top: 0;
+	right: 0;
+	background-color: #fff; /* Set the background color as needed */
+	padding: 10px;
+	box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Optional: Add box-shadow for a subtle effect */
+	display: flex;
+	align-items: center;
+	z-index: 1000; /* Adjust the z-index as needed to ensure it appears above other elements */
+  }
+  
+  .language-option {
+	margin-right: 10px; /* Adjust spacing between language options */
+	cursor: pointer;
+  }
+  
+  /* Adjustments for the rest of your page layout */
+  body {
+	margin-top: 40px; /* Ensure the fixed header doesn't overlap with content */
+  }
+  

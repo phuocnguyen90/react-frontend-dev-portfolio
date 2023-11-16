@@ -11,53 +11,59 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "Najbardziej rozbudowana aplikacja nad którą miałam okazję pracować. Poznałam dużo technologii a mój kod by sprawdzany przez super opiekuna. Aplikacja obsługuje wszystkie procesy adopcji i pozwala na przechowywanie wszelkiej dokumentacji związanej z adopcją zwierząt ze schroniska.",
+        "title": "AI Blog Writer",
+        "startDate": "2018",
+        "description": "Bắt đầu từ 2018 mình đã bắt đầu viết các blog về công nghệ, pháp lý.",
         "images": [
           "images/portfolio/animal-shelter/p1.jpg",
           "images/portfolio/animal-shelter/p2.jpg"
         ],
-        "url": "",
+        "url": "https://phuocmaster.blog/",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-wordpress-plain",
+            "name": "Wordpress"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-php-plain",
+            "name": "PHP"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-html5-plain",
+            "name": "HTML"
           }
+          
+
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Osobisty projekt na przedmiot ze studiów. Byłam odpowiedzilna za testowanie aplikacji, która optymalizuje zdjęcia z pomocą popularnych algorytmów używanych przed edytory grafiki takie jak Pixlr czy Adobe Photoshop. Otrzymałam 5-tkę za projekt :)",
+        "title": "Data Analysis",
+        "startDate": "2021",
+        "description": "I have done various analyses throughou my study. Most recently I scraped the data about data-related jobs in Vietnam and run an analysis with both NLP and regression techniques for salary prediction :)",
         "images": [
           "images/portfolio/photography/p1.jpg",
           "images/portfolio/photography/p2.jpg"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/phuocnguyen90/Data_Job_Analysis",
         "technologies": [
           {
-            "class": "devicon-react-original",
-            "name": "React"
+            "class": "devicon-jupyter-plain",
+            "name": "Jupyter"
           },
           {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
+            "class": "devicon-python-plain",
+            "name": "Python"
+          }          ,
+          {
+            "class": "devicon-vscode-plain",
+            "name": "VS Code"
           }
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "Jedna z pierwszych aplikacji nad którymi pracowałam na stażu. Musiałam przygotować front-end dla aplikacji, która pokazuje modele 3D znanych budynków. To był także mój pierwszy projekt w frameworku Angular. Dużo się nauczyłam!",
+        "title": "AI Engineer",
+        "startDate": "2022",
+        "description": "In the path of becoming a full stack AI Engineer, I am learning MLOps and front-end development. This portfolio website is a demonstration of React website building",
         "images": [
           "images/portfolio/adventure/p1.jpg",
           "images/portfolio/adventure/p2.jpg"
@@ -65,51 +71,61 @@
         "url": "https://github.com",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-googlecloud-plain",
+            "name": "GCP"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-amazonwebservices-plain",
+            "name": "AWS"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-react-original",
+            "name": "React"
           }
         ]
       }
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - obecnie",
+        "company": "Telus International",
+        "title": "Data Analyst",
+        "years": "11.2022 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "Python"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          "Angular Material"
+          "LLM",
+          "Web scraping",
+          "HTML"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Stażystka",
-        "years": "01.2018 - 09.2019",
+        "company": "Victoria University of Wellington",
+        "title": "PhD Candidate",
+        "years": "12.2019 - 03.2021",
         "mainTech": [
-          "Angular 7/8"
+          "Legal research"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "Swagger",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "Legal tech",
+          "AI regulation",
+          "AI ethics"
+
+        ]
+      }
+      ,
+      {
+        "company": "Thu Vien Phap Luat",
+        "title": "Editor",
+        "years": "09.2012 - 11.2014",
+        "mainTech": [
+          "Content creation"
+        ],
+        "technologies": [
+          "CMS",
+          "SEO",
+          "Digital marketing"
+
         ]
       }
     ]

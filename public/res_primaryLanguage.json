@@ -29,7 +29,7 @@
             "name": "PHP"
           },
           {
-            "class": "devicon-html5-plain-wordmark",
+            "class": "devicon-html5-plain",
             "name": "HTML"
           }
           
@@ -47,7 +47,7 @@
         "url": "https://github.com/phuocnguyen90/Data_Job_Analysis",
         "technologies": [
           {
-            "class": "devicon-jupyter-plain-wordmark",
+            "class": "devicon-jupyter-plain",
             "name": "Jupyter"
           },
           {
@@ -71,15 +71,15 @@
         "url": "https://github.com",
         "technologies": [
           {
-            "class": "devicon-googlecloud-plain-wordmark",
+            "class": "devicon-googlecloud-plain",
             "name": "GCP"
           },
           {
-            "class": "devicon-amazonwebservices-plain-wordmark",
+            "class": "devicon-amazonwebservices-plain",
             "name": "AWS"
           },
           {
-            "class": "devicon-react-original-wordmark",
+            "class": "devicon-react-original",
             "name": "React"
           }
         ]
